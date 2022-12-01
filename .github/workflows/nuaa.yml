@@ -1,5 +1,5 @@
 name: nuaa
-# 每天00:30打卡
+# 每天00:01打卡，会有30分钟左右延迟
 on:
   push:
     branches: master
